@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dinnerTimeps</string>
+    <string name="tvTime">Choose your dinner time.....</string>
+    <string name ="btnSubmit">Submit</string>
+</resources>
